@@ -1,5 +1,5 @@
 # Collections
-This topic we will learn more about keyed-collections that are a collection of data represented in the key-value notation. Elements' values are accessed and manipulated through their respective keys. 
+In this topic we will learn more about keyed-collections that are a collection of data represented in the key-value notation. Elements' values are accessed and manipulated through their respective keys. 
 
 # Exercise 1: Maps
 <li>Create a function that get admins in a system and receives a map</li>
