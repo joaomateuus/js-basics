@@ -4,7 +4,7 @@
 const button = document.getElementById('mode-selector');
 const h1 = document.getElementById('page-title');
 
-// In those ones with the tag name it will return an array in console
+// In those ones the tag name will return an array in console
 //IT WILL RETURN EVERYTHING THAT IS INSIDE THE TAG
 // SO ITS NECESSARY TO SELECT THE ARRAY INDEX THAT YOU WANT
 const body = document.getElementsByTagName('body') [0]; // <-- !!!
