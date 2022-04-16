@@ -86,6 +86,14 @@ b = 10;
 c = x * b;
 console.log(c); //50
 ````
+- ## **  : Exponencial operations
+````
+x = 2;
+b = 4;
+
+c = x ** b;
+console.log(c); //16  2x2x2x2=16
+````
 - ## / : Share operations
 ````
 x = 25;
@@ -94,3 +102,97 @@ b = 5;
 c = x / b;
 console.log(c); //5
 ````
+
+- ## % : rest of the share operation is returned ` x % y `
+````
+x = 10;
+y = 2; 
+
+x % y
+console.log(x) //0 
+````
+- ## ++ : Add 1 `i++`
+- ## -- : Decrease 1 `i--`
+---
+<br>
+
+# Comparing
+## The signs that we use to compare the variable values.
+![](../sintax_operators/assets/Screenshot_7.png)
+
+- ## == : Same value
+````
+if(x == b) {
+    /////
+}
+````
+- ## === : Same value and same type
+````
+if(x === b) {
+    ////
+}
+````
+- ## != : Value is diferent ? 
+````
+if(x != b) {
+    ////
+}
+````
+- ## !== : Value and type are diferent ? 
+````
+if(x !== b) {
+    ////
+}
+````
+- ## > : Bigger 
+````
+if(x > b) {
+    ////
+}
+````
+- ## < : Smaller 
+````
+if(x < b) {
+    ////
+}
+````
+- ## >= : Bigger or equal  
+````
+if(x >= b) {
+    ////
+}
+````
+- ## <= : Smaller or Equal 
+````
+if(x <= b) {
+    ////
+}
+````
+---
+<br>
+
+# Lógic
+## Signs to apply logic inline without writting a function.
+![img](./assets/Screenshot_8.png)
+- ## && : AND 
+- ## || : OR
+- ## ! : NO! 
+````
+if(a&&b) {
+
+}
+if(!a) {
+
+}
+
+````
+---
+<br>
+
+# Conditional
+## Applying logic with a if/else inline
+![img](./assets/Screenshot_9.png)
+
+- ## 1- If `(mycondition) ? (myconditon2)` is true, is executed.
+- ## if its not `:(expression3)` the else ":" is executed.
+---
