@@ -7,3 +7,4 @@ console.log(showAge('João', 20));
 console.log(showCity('João', 'Manaus'));
 console.log(showHobby('João', 'Coding'));
 
+
