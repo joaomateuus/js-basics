@@ -1,6 +1,5 @@
 # Objects 
 ### An object is a collection of related data or funcionality. These usually consist of several variables and functions (wich are called properties and methods when they are inside objects)
-<br>
 
 ## Initializing an object
 ````
@@ -62,7 +61,6 @@ const objectName = {
 
 # Dot notation 
 ## As we already did, we can acess our object data with a dot notation.
-<br>
 
 - ### The object name acts like a namescpace, it must be entered first seeing that is how we can acess our object data.
 - ### Next you write a dot, then the item that you want to acess.
